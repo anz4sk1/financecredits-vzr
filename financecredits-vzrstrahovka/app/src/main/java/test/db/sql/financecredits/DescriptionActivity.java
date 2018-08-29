@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import com.finance.creditcard.R;
+import com.financeapp.insurance.R;
 
 public class DescriptionActivity extends AppCompatActivity {
 

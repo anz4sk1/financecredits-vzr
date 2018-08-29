@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Кредитная карта</string>
+    <string name="app_name">Страховка Онлайн</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -7,8 +7,8 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="description">Инструкция</string>
-    <string name="makeRequest">Оформить заявку</string>
+    <string name="description">Условия и описание</string>
+    <string name="makeRequest">Оформить полис</string>
     <string name="aboutApp">О программе</string>
     <string name="thanks">Спасибо за заявку!</string>
     <string name="more">Подробнее</string>
@@ -17,37 +17,38 @@
     <string name="name">Имя</string>
     <string name="surname">Фамилия</string>
     <string name="phone">Моб. телефон</string>
-    <string name="requestcard">ЗАКАЗАТЬ КАРТУ</string>
+    <string name="requestcard">ЗАКАЗАТЬ ПОЛИС</string>
 
     <string name="title1">Здравствуйте!</string>
-    <string name="text1">Благодарим за установку нашего приложения. Сейчас мы расскажем Вам как легко и быстро получить кредитную карту с бесплатной доставкой не выходя из своего дома!</string>
-    <string name="title2">Мы предлагаем Вам:</string>
-    <string name="text2">Специально для Вас мы разработали уникальное приложение, которое позволяет оформить и получить кредитную карту указав в заявке только Ваши имя и номер телефона!
+    <string name="text1">Благодарим за установку нашего приложения!
+    \n\nМы предлагаем Вам быстрое оформление всех видов страховых полисов в режиме онлайн. Также, поможем срочно оформитиь страховку на случай выезда за границу или для оформления визы.</string>
+    <string name="title2">Как оформить страховку?</string>
+    <string name="text2">Для оформления страховки вам достаточно заполнить всего несколько полей, а именно ваше ФИО и ваш активный номер телефона.
 
-    \n\nПосле этого наши операторы сделают все сами. Мы подберем для Вас самое выгодное предложение по процентной ставке, сделаем максимальное колиество безпроцентных дней и предложим лучшие условия пользования кредитной картой.
+    \n\nПосле корректного оформления заявки в самое ближайшее время с Вами свяжется наш оператор, который проконсультирует Вас по всем интересующим вопросам, а также подберет для вас лучшие предложения со всех страховых компаний.
 
-    \n\nВам нужно всего лишь оформить заявку прямо в нашем приложении!</string>
+    \n\nОбязательно проверьте ваши данные перед отправлением формы, они должны быть верные.</string>
 
     <string name="correctData">Обязательно проверьте правильность Ваших данных</string>
 
-    <string name="textAboutTitle">Кредитная карта Online!</string>
+    <string name="textAboutTitle">Оформление страховки Online!</string>
     <string name="textAboutText">Версия приложения: 1.0
     \n\nЯзык: Русский
     \n\n<a href="http://kesh.online/policy.html">Политика конфиденциальности</a>
     \n\n
     \n\nВсе права защищены (с)</string>
-    <string name="likeApp"><a href="https://play.google.com/store/apps/details?id=com.finance.creditcard">Оценить приложение в магазине Google Play.</a></string>
+    <string name="likeApp"><a href="https://play.google.com/store/apps/details?id=com.financeapp.insurance">Оценить приложение в магазине Google Play.</a></string>
 
     <string name="text3fields">Для оформления заявки заполните всего три поля!
 
     \n\nПосле оформления с Вами свяжется наш оператор, который подберет для Вас лучшие условия и проконсультирует по всем возникшим вопросам.</string>
     <string name="online">online</string>
 
-    <string name="thanksText">Пожалуйста,включите Ваш мобильный телефон и лжидайте звонка о оператораю Звонок должен поступить в самое ближайшее время!
+    <string name="thanksText">Пожалуйста, включите Ваш мобильный телефон и ожидайте звонка оn оператора. Звонок должен поступить в самое ближайшее время!
 
-    \n\nМы будем очень рады, если Вы оцените наше приложение и поставите положительную оцентку!</string>
+    \n\nМы будем очень рады, если Вы оцените наше приложение и поставите положительную оценку!</string>
 
     <string name="thanks3">Благодарим за использование нашего приложения!</string>
     <string name="gotocheck">ПЕРЕЙТИ К ОФОРМЛЕНИЮ</string>
-    <string name="iagree">Я согласен(сна) на обработку моих персональных данных</string>
+    <string name="iagree">Я согласен(-сна) на обработку моих персональных данных</string>
 </resources>

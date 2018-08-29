@@ -10,7 +10,7 @@ public class MyApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        YandexMetricaConfig.Builder configBuilder = YandexMetricaConfig.newConfigBuilder("07b2a61b-7de6-4531-886f-31660202b96b");
+        YandexMetricaConfig.Builder configBuilder = YandexMetricaConfig.newConfigBuilder("492456ed-5c94-41ee-b199-6541771b630c");
         YandexMetrica.activate(getApplicationContext(), configBuilder.build());
 
         YandexMetrica.enableActivityAutoTracking(this);

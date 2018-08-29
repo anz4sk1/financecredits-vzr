@@ -13,7 +13,7 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.Toast;
-import com.finance.creditcard.R;
+import com.financeapp.insurance.R;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -55,7 +55,8 @@ public class RequestActivity extends AppCompatActivity {
                 name = etName.getText().toString();
                 surname = etSurname.getText().toString();
                 phone = etPhone.getText().toString();
-                String myURL = "http://kesh.online/lead.php?name="+name+"&surname="+surname+"&phone="+phone;
+                String myURL = "http://kesh.online/lead_ins.php?name="+name+"&surname="+surname+"&phone="+phone;
+
                 String parammetrs = "param1=1&param2=XXX";
                 byte[] data = null;
                 InputStream is = null;
